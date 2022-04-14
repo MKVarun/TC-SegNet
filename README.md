@@ -17,4 +17,4 @@ A robust deep learning framework for segnmentation of 2D echocardiography. Paper
 
 
 ## Results
-![alt text](imgs/final_overlay.png)
+<img src="imgs/final_overlay.png" alt="drawing" width="200"/>
